@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning iOS app development and 3D modeling
 - 📫 How to reach me: [SwiftUI Masterclass Course](https://swiftuimasterclass.com)
 - 📫 How to reach me: [Blender 3D Masterclass Course](https://blender3dmasterclass.com)
-- 😄 Pronouns: ...
 - 🐶 Fun fact: I have got a Coton de Tulear dog called Benji
