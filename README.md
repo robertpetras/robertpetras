@@ -5,4 +5,4 @@
 - 📫 How to reach me: [SwiftUI Masterclass Course](https://swiftuimasterclass.com)
 - 📫 How to reach me: [Blender 3D Masterclass Course](https://blender3dmasterclass.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have got a Coton de Tulear dog called Benji
+- 🐶 Fun fact: I have got a Coton de Tulear dog called Benji
