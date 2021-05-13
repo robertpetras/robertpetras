@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Robert Petras
 
-- 👨‍🏫 Credo Academy: [Design + Code Academy](https://credo.academy)
+- 👨‍🏫 Credo Academy: [Design + Code course](https://credo.academy)
 - 1️⃣ SwiftUI Masterclass: [SwiftUI course](https://credo.academy/swiftui-course.html)
 - 2️⃣ Augmented Reality Masterclass: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
 - 3️⃣ UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
@@ -43,9 +43,7 @@ Create, prototype, collaborate, and bring your app ideas to life with the design
 
 Blender 3D is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, augmented reality, and computer games.
 
-<a href="http://credo.academy" target="_blank">
-  ![Credo Academy][logo]
-<a>
+[comment]: <#![Credo Academy][logo]>
 
 [image-credo]: https://credo.academy/img/credo-design-code-academy-no01.jpg "Credo Academy"
 [image-swiftui]: https://credo.academy/img/credo-academy-swiftui-course.jpg "SwiftUI Masterclass"
