@@ -1,5 +1,5 @@
 <a href="http://credo.academy" target="_blank">
-  <img src="https://credo.academy/img/credo-design-code-academy-no01.jpg" alt="Credo Academy" width="100%" height="auto"/>
+  <img src="https://credo.academy/img/ui-ux-design-ios-app-course-credo-academy@3x.jpg" alt="Credo Academy" width="100%" height="auto"/>
 </a>
 
 # Hi 👋, I'm Robert Petras
