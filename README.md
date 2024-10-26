@@ -13,6 +13,8 @@
 - Fun fact: I have got a Coton de Tulear dog called Benji 🐶 
 - Hobbies: Ballroom and Salsa  dances 💃🕺
 
+<img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Credo Academy" width="144" height="144"/>
+
 <a href="https://credo.academy/swiftdata-course.html" target="_blank">
   <img src="https://credo.academy/img/credo-academy-swiftdata-course.jpg" alt="SwiftData Masterclass course" width="100%" height="auto"/>
 </a>
