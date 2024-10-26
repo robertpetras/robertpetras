@@ -1,5 +1,5 @@
 <a href="http://credo.academy" target="_blank">
-  <img src="https://credo.academy/img/credo-academy-swiftdata-course.jpg" alt="Credo Academy" width="100%" height="auto"/>
+  <img src="https://credo.academy/img/credo-design-code-academy-no01.jpg" alt="Credo Academy" width="100%" height="auto"/>
 </a>
 
 # Hi 👋, I'm Robert Petras
@@ -12,6 +12,15 @@
 - ⑤ Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
 - Fun fact: I have got a Coton de Tulear dog called Benji 🐶 
 - Hobbies: Ballroom and Salsa  dances
+
+<a href="https://credo.academy/swiftdata-course.html" target="_blank">
+  <img src="https://credo.academy/img/credo-academy-swiftdata-course.jpg" alt="SwiftData Masterclass course" width="100%" height="auto"/>
+</a>
+
+## SwiftData Masterclass
+
+Welcome to the SwiftData course, where you will learn how to efficiently manage and manipulate data within your iOS applications using the SwiftData framework. Are you ready to streamline your data management process and improve the efficiency of handling data in your apps? With SwiftData, you can easily create data models, interact with databases, and perform CRUD operations with minimal code. This lightweight framework offers features like data previewing, data validation, and error handling to make working with data a breeze.
+
 
 <a href="https://credo.academy/swiftui-course.html" target="_blank">
   <img src="https://credo.academy/img/credo-academy-swiftui-course.jpg" alt="SwiftUI Masterclass course" width="100%" height="auto"/>
