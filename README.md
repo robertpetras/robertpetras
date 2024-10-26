@@ -1,15 +1,17 @@
 <a href="http://credo.academy" target="_blank">
-  <img src="https://credo.academy/img/ui-ux-design-ios-app-course-credo-academy@3x.jpg" alt="Credo Academy" width="100%" height="auto"/>
+  <img src="https://credo.academy/img/credo-academy-swiftdata-course.jpg" alt="Credo Academy" width="100%" height="auto"/>
 </a>
 
 # Hi 👋, I'm Robert Petras
 
-- 👨‍🏫 Credo Academy: [Design + Code course](https://credo.academy)
-- 1️⃣ SwiftUI Masterclass: [SwiftUI course](https://credo.academy/swiftui-course.html)
-- 2️⃣ Augmented Reality Masterclass: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
-- 3️⃣ UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
-- 4️⃣ Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
-- 🐶 Fun fact: I have got a Coton de Tulear dog called Benji
+- Credo Academy: [App Design and Development courses](https://credo.academy)
+- ① SwiftUI Masterclass Course: [SwiftUI course](https://credo.academy/swiftui-course.html)
+- ② SwiftData Masterclass Course: [SwiftData course](https://credo.academy/swiftdata-course.html)
+- ③ visionOS: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
+- ④ UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
+- ⑤ Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
+- Fun fact: I have got a Coton de Tulear dog called Benji 🐶 
+- Hobbies: Ballroom and Salsa  dances
 
 <a href="https://credo.academy/swiftui-course.html" target="_blank">
   <img src="https://credo.academy/img/credo-academy-swiftui-course.jpg" alt="SwiftUI Masterclass course" width="100%" height="auto"/>
