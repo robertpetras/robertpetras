@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Robert Petras
 
-<img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Credo Academy" width="160" height="160" style="border-radius: 5%;"/>
+<img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Credo Academy" width="160" height="160" style="border-radius: 12px !important;"/>
 
 
 - Credo Academy: [App Design and Development courses](https://credo.academy)
