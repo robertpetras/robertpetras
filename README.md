@@ -4,16 +4,18 @@
 
 # Hi 👋, I'm Robert Petras
 
+<img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Credo Academy" width="160" height="160" style="border-radius: 5%;"/>
+
+
 - Credo Academy: [App Design and Development courses](https://credo.academy)
-- ① SwiftUI Masterclass Course: [SwiftUI course](https://credo.academy/swiftui-course.html)
-- ② SwiftData Masterclass Course: [SwiftData course](https://credo.academy/swiftdata-course.html)
-- ③ visionOS: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
-- ④ UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
-- ⑤ Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
+- SwiftUI Masterclass Course: [SwiftUI course](https://credo.academy/swiftui-course.html)
+- SwiftData Masterclass Course: [SwiftData course](https://credo.academy/swiftdata-course.html)
+- visionOS: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
+- UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
+- Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
 - Fun fact: I have got a Coton de Tulear dog called Benji 🐶 
 - Hobbies: Ballroom and Salsa  dances 💃🕺
 
-<img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Credo Academy" width="144" height="144"/>
 
 <a href="https://credo.academy/swiftdata-course.html" target="_blank">
   <img src="https://credo.academy/img/credo-academy-swiftdata-course.jpg" alt="SwiftData Masterclass course" width="100%" height="auto"/>
