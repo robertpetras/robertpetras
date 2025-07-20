@@ -10,12 +10,12 @@
 
 ## Courses
 
-- Credo Academy: [App Design and Development courses](https://credo.academy)
-- SwiftUI Course: [SwiftUI Course](https://credo.academy/swiftui-course.html)
-- SwiftData Course: [SwiftData Course](https://credo.academy/swiftdata-course.html)
-- Apple AI Course: [Apple AI Course](https://credo.academy/artificial-intelligence-course.html)
-- Apple AR Course: [Augmented Reality Course](https://credo.academy/augmented-reality-course.html)
-- UI/UX Design Course: [UI/UX Design Course](https://credo.academy/ui-ux-design-course.html)
+
+1. SwiftUI Course: [SwiftUI Course](https://credo.academy/swiftui-course.html)
+2. SwiftData Course: [SwiftData Course](https://credo.academy/swiftdata-course.html)
+3. Apple AI Course: [Apple AI Course](https://credo.academy/artificial-intelligence-course.html)
+4. Apple AR Course: [Augmented Reality Course](https://credo.academy/augmented-reality-course.html)
+5. UI/UX Design Course: [UI/UX Design Course](https://credo.academy/ui-ux-design-course.html)
 
 ## Personal Interests
 
@@ -61,6 +61,8 @@ Start developming the next-generation AR applications using Apple's Augmented Re
 </a>
 
 Create, prototype, collaborate, and bring your app ideas to life with the design platform used by over one million people Sketch — from freelancers, to the world’s largest teams like Apple, Google, MIT, Porsche, Stripe.
+
+Credo Academy: [App Design & Development courses](https://credo.academy)
 
 [comment]: <#![Credo Academy][logo]>
 
