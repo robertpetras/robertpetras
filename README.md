@@ -12,7 +12,7 @@
 
 1. SwiftUI Course: [SwiftUI Course](https://credo.academy/swiftui-course.html)
 2. SwiftData Course: [SwiftData Course](https://credo.academy/swiftdata-course.html)
-3. Apple AI Course: [Apple AI Course](https://credo.academy/artificial-intelligence-course.html)
+3. Apple AI Course: [Artificial Intelligence Course](https://credo.academy/artificial-intelligence-course.html)
 4. Apple AR Course: [Augmented Reality Course](https://credo.academy/augmented-reality-course.html)
 5. UI/UX Design Course: [UI/UX Design Course](https://credo.academy/ui-ux-design-course.html)
 
