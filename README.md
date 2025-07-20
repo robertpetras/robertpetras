@@ -28,7 +28,7 @@
   <img src="https://credo.academy/img/credo-academy-apple-ai@2x.webp" alt="Augmented Reality Course" width="100%" height="auto"/>
 </a>
 
-\n
+<br><br>
 Dive into the latest key technologies and capabilities. Foundation Models framework. Visual intelligence. Shortcuts app. Image Playground. Apple's commitment to artificial intelligence paves the way for developers to create transformative applications that resonate with users on a personal level.
 
 ## SwiftUI Masterclass
