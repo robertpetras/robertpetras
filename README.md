@@ -8,18 +8,22 @@
   <img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Robert Petras" width="160" height="160" style="border-radius: 12px !important;"/>
 </a>
 
+## Courses
 
 - Credo Academy: [App Design and Development courses](https://credo.academy)
-- SwiftUI Masterclass Course: [SwiftUI course](https://credo.academy/swiftui-course.html)
-- SwiftData Masterclass Course: [SwiftData course](https://credo.academy/swiftdata-course.html)
-- visionOS: [Augmented Reality course](https://credo.academy/augmented-reality-course.html)
-- UI/UX design Masterclass: [UI/UX design course](https://credo.academy/ui-ux-course.html)
-- Blender 3D Masterclass: [Blender 3D course](https://credo.academy/blender-3d-course.html)
+- SwiftUI Course: [SwiftUI Course](https://credo.academy/swiftui-course.html)
+- SwiftData Course: [SwiftData Course](https://credo.academy/swiftdata-course.html)
+- Apple AI Course: [Apple AI Course](https://credo.academy/artificial-intelligence-course.html)
+- Apple AR Course: [Augmented Reality Course](https://credo.academy/augmented-reality-course.html)
+- UI/UX Design Course: [UI/UX Design Course](https://credo.academy/ui-ux-design-course.html)
+
+## Personal Interests
+
 - Fun fact: I have got a Coton de Tulear dog called Benji 🐶 
-- Hobbies: Ballroom and Salsa  dances 💃🕺
+- Hobbies: Ballroom and Salsa dances 💃🕺
 
 <a href="https://credo.academy/artificial-intelligence-course.html" target="_blank">
-  <img src="https://credo.academy/img/credo-academy-apple-ai@2x.webp" alt="Augmented Reality Course" width="100%" height="auto" border-radius="20px"/>
+  <img src="https://credo.academy/img/credo-academy-apple-ai@2x.webp" alt="Augmented Reality Course" width="100%" height="auto"/>
 </a>
 
 ## Apple Artificial Intelligence Masterclass
