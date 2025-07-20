@@ -28,8 +28,7 @@
 </a>
 
 <br><br>
-<p style="font-size: large">Dive into the latest key technologies and capabilities. Foundation Models framework. Visual intelligence. Shortcuts app. Image Playground. Apple's commitment to artificial intelligence paves the way for developers to create transformative applications that resonate with users on a personal level.
-</p>
+Dive into the latest key technologies and capabilities. Foundation Models framework. Visual intelligence. Shortcuts app. Image Playground. Apple's commitment to artificial intelligence paves the way for developers to create transformative applications that resonate with users on a personal level.
 
 ## SwiftUI Masterclass
 
