@@ -28,6 +28,7 @@
   <img src="https://credo.academy/img/credo-academy-apple-ai@2x.webp" alt="Augmented Reality Course" width="100%" height="auto"/>
 </a>
 
+\n
 Dive into the latest key technologies and capabilities. Foundation Models framework. Visual intelligence. Shortcuts app. Image Playground. Apple's commitment to artificial intelligence paves the way for developers to create transformative applications that resonate with users on a personal level.
 
 ## SwiftUI Masterclass
@@ -36,6 +37,7 @@ Dive into the latest key technologies and capabilities. Foundation Models framew
   <img src="https://credo.academy/img/credo-academy-swiftui-course@2x.webp" alt="SwiftUI Masterclass Course" width="100%" height="auto"/>
 </a>
 
+\n
 Learn how to develop and design apps. Practical tutorials about iOS app development with SwiftUI from total beginners to advanced developers. Learn how to build many iOS, iPadOS and even macOS apps from scratch. This course is teaching custom app layouts, interactive animations, user interface components, loading external data, and so on.
 
 ## SwiftData Masterclass
@@ -44,6 +46,7 @@ Learn how to develop and design apps. Practical tutorials about iOS app developm
   <img src="https://credo.academy/img/credo-academy-swiftdata-course@2x.webp" alt="SwiftData Masterclass Course" width="100%" height="auto"/>
 </a>
 
+\n
 Welcome to the [SwiftData course](https://credo.academy/swiftdata-course.html), where you will learn how to efficiently manage and manipulate data within your iOS applications using the SwiftData framework. Are you ready to streamline your data management process and improve the efficiency of handling data in your apps? With SwiftData, you can easily create data models, interact with databases, and perform CRUD operations with minimal code. This lightweight framework offers features like data previewing, data validation, and error handling to make working with data a breeze.
 
 ## Apple Augmented Reality Masterclass
@@ -52,6 +55,7 @@ Welcome to the [SwiftData course](https://credo.academy/swiftdata-course.html), 
   <img src="https://credo.academy/img/credo-academy-augmented-reality-course@2x.webp" alt="Augmented Reality Course" width="100%" height="auto"/>
 </a>
 
+\n
 Start developming the next-generation AR applications using Apple's Augmented Reality frameworks, such as ARKit, RealityKit, and creative tools like Reality Composer and Reality Converter, and much more with this practical online tutorials.
 
 ## UI/UX Design Masterclass
@@ -60,6 +64,7 @@ Start developming the next-generation AR applications using Apple's Augmented Re
   <img src="https://credo.academy/img/credo-academy-ui-ux-course@2x.webp" alt="UI/UX Design course" width="100%" height="auto"/>
 </a>
 
+\n
 Create, prototype, collaborate, and bring your app ideas to life with the design platform used by over one million people Sketch — from freelancers, to the world’s largest teams like Apple, Google, MIT, Porsche, Stripe.
 
 Credo Academy: [App Design & Development courses](https://credo.academy)
