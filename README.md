@@ -5,7 +5,7 @@
 # Hi 👋, I'm Robert Petras
 
 <a href="https://credo.academy/robert-petras.html" target="_blank">
-  <img src="https://credo.academy/img/robert-petras-credo-academy-2022.jpg" alt="Robert Petras" width="160" height="160" style="border-radius: 12px !important;"/>
+  <img src="https://credo.academy/img/robert-petras@2x.webp" alt="Robert Petras" width="160" height="160" style="border-radius: 12px !important;"/>
 </a>
 
 ## Courses
